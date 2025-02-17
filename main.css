@@ -14,15 +14,15 @@
 
 @font-face {
     font-family: 'Sen-Bold';
-    src: url(/assets/fonts/Sen-Bold.ttf);
+    src: url(./assets/fonts/Sen-Bold.ttf);
 }
 @font-face {
     font-family: 'Sen-Medium';
-    src: url(/assets/fonts/Sen-Medium.ttf);
+    src: url(./assets/fonts/Sen-Medium.ttf);
 }
 @font-face {
     font-family: 'Sen-Regular';
-    src: url(/assets/fonts/Sen-Regular.ttf);
+    src: url(./assets/fonts/Sen-Regular.ttf);
 }
 
 * {
